@@ -1,0 +1,14 @@
+<svg viewBox="0 0 260 100" xmlns="http://www.w3.org/2000/svg">
+  <!-- Left rectangle -->
+  <rect x="10" y="15" width="90" height="65" fill="none" stroke="#333333" stroke-width="1.8"/>
+  <polyline points="10,27 22,27 22,15" fill="none" stroke="#333333" stroke-width="1.2"/>
+  <polyline points="88,15 88,27 100,27" fill="none" stroke="#333333" stroke-width="1.2"/>
+  <polyline points="100,68 88,68 88,80" fill="none" stroke="#333333" stroke-width="1.2"/>
+  <polyline points="10,68 22,68 22,80" fill="none" stroke="#333333" stroke-width="1.2"/>
+  <!-- Right rectangle -->
+  <rect x="155" y="15" width="90" height="65" fill="none" stroke="#333333" stroke-width="1.8"/>
+  <polyline points="155,27 167,27 167,15" fill="none" stroke="#333333" stroke-width="1.2"/>
+  <polyline points="233,15 233,27 245,27" fill="none" stroke="#333333" stroke-width="1.2"/>
+  <polyline points="245,68 233,68 233,80" fill="none" stroke="#333333" stroke-width="1.2"/>
+  <polyline points="155,68 167,68 167,80" fill="none" stroke="#333333" stroke-width="1.2"/>
+</svg>

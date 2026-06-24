@@ -1,0 +1,6 @@
+<svg viewBox="0 0 260 100" xmlns="http://www.w3.org/2000/svg">
+  <!-- Left triangle -->
+  <polygon points="20,85 75,15 130,85" fill="none" stroke="#333333" stroke-width="1.8"/>
+  <!-- Right triangle -->
+  <polygon points="145,85 200,15 255,85" fill="none" stroke="#333333" stroke-width="1.8"/>
+</svg>

@@ -1,0 +1,6 @@
+<svg viewBox="0 0 260 100" xmlns="http://www.w3.org/2000/svg">
+  <!-- Left parallelogram -->
+  <polygon points="20,80 50,20 120,20 90,80" fill="none" stroke="#333333" stroke-width="1.8"/>
+  <!-- Right parallelogram -->
+  <polygon points="145,80 175,20 245,20 215,80" fill="none" stroke="#333333" stroke-width="1.8"/>
+</svg>
