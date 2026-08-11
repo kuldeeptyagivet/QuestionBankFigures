@@ -1,0 +1,6 @@
+<svg viewBox="0 0 420 420" xmlns="http://www.w3.org/2000/svg">
+<rect x="1" y="1" width="418" height="418" fill="white" stroke="none"/>
+<defs><marker id="ah" markerWidth="8" markerHeight="8" refX="4" refY="4" orient="auto"><path d="M0,0 L8,4 L0,8 z" fill="black"/></marker></defs>
+<line x1="380.0" y1="210.0" x2="40.0" y2="210.0" stroke="black" stroke-width="2" marker-start="url(#ah)" marker-end="url(#ah)"/><line x1="319.3" y1="79.8" x2="100.7" y2="340.2" stroke="black" stroke-width="2" marker-start="url(#ah)" marker-end="url(#ah)"/><line x1="65.8" y1="119.9" x2="354.2" y2="300.1" stroke="black" stroke-width="2" marker-start="url(#ah)" marker-end="url(#ah)"/>
+<path d="M176.1,188.8 A40,40 0 0 0 170.0,210.0" fill="none" stroke="black" stroke-width="1.5"/><text x="152.3" y="193.5" font-family="sans-serif" font-size="15" text-anchor="middle" dominant-baseline="middle">32°</text><path d="M250.0,210.0 A40,40 0 0 0 235.7,179.4" fill="none" stroke="black" stroke-width="1.5"/><text x="264.4" y="184.6" font-family="sans-serif" font-size="15" text-anchor="middle" dominant-baseline="middle">50°</text><path d="M180.4,245.2 A46,46 0 0 0 249.0,234.4" fill="none" stroke="black" stroke-width="1.5"/><text x="220.0" y="273.2" font-family="sans-serif" font-size="15" text-anchor="middle" dominant-baseline="middle">x°</text>
+</svg>
