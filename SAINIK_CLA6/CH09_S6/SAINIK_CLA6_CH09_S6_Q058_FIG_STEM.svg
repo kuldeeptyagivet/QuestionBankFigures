@@ -1,0 +1,8 @@
+<svg viewBox="0 0 420 420" xmlns="http://www.w3.org/2000/svg">
+<rect x="1" y="1" width="418" height="418" fill="white" stroke="none"/>
+<line x1="367.6" y1="146.3" x2="52.4" y2="273.7" stroke="black" stroke-width="2"/><line x1="180.5" y1="42.6" x2="239.5" y2="377.4" stroke="black" stroke-width="2"/><line x1="45.8" y1="166.0" x2="374.2" y2="254.0" stroke="black" stroke-width="2"/>
+<text x="155" y="115" font-family="sans-serif" font-size="16" text-anchor="middle">68 deg</text>
+<text x="265" y="115" font-family="sans-serif" font-size="16" text-anchor="middle">39 deg</text>
+<text x="195" y="172" font-family="sans-serif" font-size="16" text-anchor="middle">y</text>
+<text x="225" y="172" font-family="sans-serif" font-size="16" text-anchor="middle">x</text>
+</svg>
