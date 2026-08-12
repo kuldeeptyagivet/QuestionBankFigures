@@ -1,1 +1,4 @@
-<svg viewBox="0 0 160 170" xmlns="http://www.w3.org/2000/svg"><rect x="1" y="1" width="160" height="170" fill="white" stroke="black" stroke-width="2"/><polygon points="25,30 130,30 130,70 90,70 90,140 25,140" fill="none" stroke="black" stroke-width="3"/></svg>
+<svg viewBox="0 0 364 369" xmlns="http://www.w3.org/2000/svg">
+<rect x="0" y="0" width="364" height="369" fill="white"/>
+<polygon points="51,61 53,311 321,309 321,249 237,247 239,210 318,209 317,63 226,63 225,106 176,151 231,107 232,68 312,69 312,202 233,205 232,252 314,254 313,306 59,306 57,179 158,192 159,146 201,112 153,144 151,186 63,174 59,66 188,66 171,123 195,61" fill="black"/>
+</svg>

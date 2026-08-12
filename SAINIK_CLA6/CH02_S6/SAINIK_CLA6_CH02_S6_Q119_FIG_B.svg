@@ -1,1 +1,12 @@
-<svg viewBox="0 0 160 170" xmlns="http://www.w3.org/2000/svg"><rect x="1" y="1" width="160" height="170" fill="white" stroke="black" stroke-width="2"/><rect x="20" y="30" width="110" height="110" fill="none" stroke="black" stroke-width="3"/><polygon points="35,110 75,60 115,110" fill="none" stroke="black" stroke-width="3"/><line x1="20" y1="30" x2="130" y2="140" stroke="black" stroke-width="3"/></svg>
+<svg viewBox="0 0 363 369" xmlns="http://www.w3.org/2000/svg">
+<rect x="0" y="0" width="363" height="369" fill="white"/>
+<polygon points="71,72 71,298 296,299 298,73 220,72 218,125 180,141 177,72" fill="black"/>
+<polygon points="102,97 171,96 172,144 104,172 102,170" fill="white"/>
+<polygon points="76,78 172,78 170,90 97,91 102,180 223,129 225,78 291,77 292,292 78,294" fill="white"/>
+<polygon points="144,187 136,189 100,210 100,273 102,275 140,275 144,273" fill="black"/>
+<polygon points="211,171 184,193 184,281 261,282 262,222 222,178" fill="black"/>
+<polygon points="233,99 232,162 266,183 277,186 277,100" fill="black"/>
+<polygon points="138,195 139,268 137,270 108,270 105,267 105,214 114,207 117,207 130,198" fill="white"/>
+<polygon points="213,177 256,222 256,276 189,275 189,199 193,192" fill="white"/>
+<polygon points="240,105 272,106 272,176 270,178 255,169 244,165 238,160 238,107" fill="white"/>
+</svg>

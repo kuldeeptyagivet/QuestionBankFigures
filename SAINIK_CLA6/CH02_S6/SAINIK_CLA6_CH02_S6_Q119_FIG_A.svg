@@ -1,1 +1,8 @@
-<svg viewBox="0 0 160 170" xmlns="http://www.w3.org/2000/svg"><rect x="1" y="1" width="160" height="170" fill="white" stroke="black" stroke-width="2"/><rect x="20" y="120" width="90" height="14" fill="none" stroke="black" stroke-width="3"/><rect x="30" y="70" width="14" height="50" fill="none" stroke="black" stroke-width="3"/><rect x="70" y="55" width="14" height="65" fill="none" stroke="black" stroke-width="3"/><polyline points="84,55 110,55 125,40" fill="none" stroke="black" stroke-width="3"/></svg>
+<svg viewBox="0 0 364 369" xmlns="http://www.w3.org/2000/svg">
+<rect x="0" y="0" width="364" height="369" fill="white"/>
+<polygon points="254,84 204,85 204,127 183,132 153,186 177,193 175,246 129,244 129,171 116,159 102,165 99,244 84,246 84,285 261,284 261,247 230,242 225,110 249,108 267,123 251,102 223,102 220,126 210,127 212,90 252,90 282,125" fill="black"/>
+<polygon points="105,252 106,251 122,251 123,252 123,262 118,267 110,267 105,262" fill="white"/>
+<polygon points="196,179 210,180 209,274 195,273" fill="white"/>
+<polygon points="110,165 119,165 120,168 123,169 123,244 121,246 107,246 105,244 105,170" fill="white"/>
+<polygon points="224,135 225,248 255,252 255,279 216,279 216,175 181,174 189,180 189,279 91,280 91,251 111,273 126,267 130,251 176,251 183,264 183,189 161,184 188,135" fill="white"/>
+</svg>

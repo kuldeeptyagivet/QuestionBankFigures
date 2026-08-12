@@ -1,1 +1,5 @@
-<svg viewBox="0 0 160 170" xmlns="http://www.w3.org/2000/svg"><rect x="1" y="1" width="160" height="170" fill="white" stroke="black" stroke-width="2"/><circle cx="80" cy="35" r="16" fill="none" stroke="black" stroke-width="3"/><line x1="80" y1="51" x2="80" y2="110" stroke="black" stroke-width="3"/><line x1="80" y1="110" x2="55" y2="150" stroke="black" stroke-width="3"/><line x1="80" y1="110" x2="105" y2="150" stroke="black" stroke-width="3"/><polyline points="80,70 55,70 55,45 80,45" fill="none" stroke="black" stroke-width="3"/></svg>
+<svg viewBox="0 0 365 369" xmlns="http://www.w3.org/2000/svg">
+<rect x="0" y="0" width="365" height="369" fill="white"/>
+<polygon points="192,61 169,63 151,84 154,110 172,124 118,150 113,174 97,168 120,184 123,153 181,130 181,241 124,261 133,303 110,309 141,309 132,264 186,246 219,246 221,304 250,308 226,301 226,243 187,241 186,199 247,164 247,116 274,111 243,109 241,160 188,190 186,127 216,99" fill="black"/>
+<polygon points="175,66 192,66 194,69 198,69 205,76 205,78 208,79 208,84 211,88 211,99 208,103 208,106 197,117 191,120 174,120 171,117 168,117 160,109 157,103 157,83 169,69 172,69" fill="white"/>
+</svg>
