@@ -1,1 +1,9 @@
-<svg viewBox="0 0 130 130" xmlns="http://www.w3.org/2000/svg"><rect x="1" y="1" width="130" height="130" fill="white" stroke="black" stroke-width="2"/><line x1="95" y1="25" x2="95" y2="80" stroke="black" stroke-width="2.5"/><line x1="95" y1="25" x2="40" y2="25" stroke="black" stroke-width="2.5"/><polygon points="40,25 47.8,20.5 47.8,29.5" fill="none" stroke="black" stroke-width="2"/><polyline points="89,66 95,80 101,66" fill="none" stroke="black" stroke-width="2"/><circle cx="35" cy="100" r="16" fill="none" stroke="black" stroke-width="2"/><path d="M23.8,100 Q30.2,92.0 35,100 Q39.8,108.0 46.2,100" fill="none" stroke="black" stroke-width="1.8"/></svg>
+<svg viewBox="0 0 386 388" xmlns="http://www.w3.org/2000/svg">
+<rect x="0" y="0" width="386" height="388" fill="white"/>
+<polygon points="109,218 84,226 68,241 59,257 56,282 63,304 75,319 93,330 108,334 119,334 140,328 161,310 170,292 172,270 166,250 152,232 130,220" fill="black"/>
+<polygon points="76,311 77,310 82,310 86,307 88,307 92,303 92,301 98,294 98,292 112,277 120,277 128,283 128,285 134,291 134,294 137,297 138,300 140,301 140,303 146,309 150,310 151,312 140,322 137,322 134,325 127,326 125,328 104,328 102,326 93,325 91,322 87,322 86,319 84,319 82,316 80,316" fill="white"/>
+<polygon points="68,250 85,232 97,226 120,223 138,229 155,243 164,258 167,281 159,303 153,307 143,298 139,289 127,274 111,271 98,283 85,302 76,305 69,304 62,286 62,265" fill="white"/>
+<polygon points="117,78 146,100 285,100 288,250 292,253 312,227 327,249 335,250 332,55 149,55" fill="black"/>
+<polygon points="125,78 149,61 327,61 329,238 313,219 293,238 293,97 150,95" fill="white"/>
+<polygon points="1,0 0,387 385,387 5,384 5,6 385,0" fill="black"/>
+</svg>

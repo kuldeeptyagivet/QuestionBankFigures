@@ -1,1 +1,9 @@
-<svg viewBox="0 0 130 140" xmlns="http://www.w3.org/2000/svg"><rect x="1" y="1" width="130" height="140" fill="white" stroke="black" stroke-width="2"/><circle cx="20" cy="30" r="9" fill="none" stroke="black" stroke-width="2"/><circle cx="20" cy="110" r="9" fill="none" stroke="black" stroke-width="2"/><line x1="20" y1="110" x2="110" y2="30" stroke="black" stroke-width="2"/><polygon points="110,30 106.8,39.5 100.2,32.0" fill="black"/><line x1="20" y1="30" x2="110" y2="110" stroke="black" stroke-width="2"/><polygon points="110,110 100.2,108.0 106.8,100.5" fill="black"/></svg>
+<svg viewBox="0 0 387 385" xmlns="http://www.w3.org/2000/svg">
+<defs><marker id="arrD" markerWidth="10" markerHeight="10" refX="7" refY="5" orient="auto"><path d="M0,0 L10,5 L0,10 Z" fill="black"/></marker></defs>
+<rect x="0" y="0" width="193.5" height="385" fill="none" stroke="black" stroke-width="3"/>
+<rect x="193.5" y="0" width="193.5" height="385" fill="none" stroke="black" stroke-width="2" stroke-dasharray="8,6"/>
+<circle cx="79.5" cy="73.5" r="19" fill="none" stroke="black" stroke-width="3"/>
+<circle cx="79.5" cy="316.5" r="19" fill="none" stroke="black" stroke-width="3"/>
+<polyline points="79.5,73.5 220,192.5 57,325" fill="none" stroke="black" stroke-width="3" marker-end="url(#arrD)"/>
+<polyline points="79.5,316.5 167,192.5 52,69" fill="none" stroke="black" stroke-width="3" marker-end="url(#arrD)"/>
+</svg>

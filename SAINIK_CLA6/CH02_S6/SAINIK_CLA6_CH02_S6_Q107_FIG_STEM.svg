@@ -1,1 +1,9 @@
-<svg viewBox="0 0 200 200" xmlns="http://www.w3.org/2000/svg"><rect x="1" y="1" width="200" height="200" fill="white" stroke="black" stroke-width="2"/><line x1="100" y1="10" x2="100" y2="190" stroke="black" stroke-width="1.5" stroke-dasharray="4,4"/><circle cx="35" cy="45" r="9" fill="none" stroke="black" stroke-width="2"/><circle cx="35" cy="155" r="9" fill="none" stroke="black" stroke-width="2"/><line x1="35" y1="155" x2="165" y2="45" stroke="black" stroke-width="2"/><polygon points="165,45 161.6,54.4 155.2,46.8" fill="black"/><line x1="35" y1="45" x2="165" y2="155" stroke="black" stroke-width="2"/><polygon points="165,155 155.2,153.2 161.6,145.6" fill="black"/></svg>
+<svg viewBox="0 0 420 385" xmlns="http://www.w3.org/2000/svg">
+<defs><marker id="arrX" markerWidth="10" markerHeight="10" refX="7" refY="5" orient="auto"><path d="M0,0 L10,5 L0,10 Z" fill="black"/></marker></defs>
+<rect x="0" y="0" width="387" height="385" fill="none" stroke="black" stroke-width="3"/>
+<line x1="193.5" y1="0" x2="193.5" y2="385" stroke="black" stroke-width="2" stroke-dasharray="8,6"/>
+<circle cx="79.5" cy="73.5" r="19" fill="none" stroke="black" stroke-width="3"/>
+<circle cx="79.5" cy="316.5" r="19" fill="none" stroke="black" stroke-width="3"/>
+<line x1="79.5" y1="73.5" x2="320" y2="325" stroke="black" stroke-width="3" marker-end="url(#arrX)"/>
+<line x1="79.5" y1="316.5" x2="335" y2="69" stroke="black" stroke-width="3" marker-end="url(#arrX)"/>
+</svg>
