@@ -3,6 +3,8 @@
 <polygon points="10,121.5 100,15 320,15 410,121.5 320,228 100,228" fill="none" stroke="black" stroke-width="2"/>
 <line x1="100" y1="121.5" x2="320" y2="121.5" stroke="black" stroke-width="2"/>
 <line x1="210" y1="15" x2="210" y2="228" stroke="black" stroke-width="2"/>
+<line x1="100" y1="15" x2="100" y2="228" stroke="black" stroke-width="2"/>
+<line x1="320" y1="15" x2="320" y2="228" stroke="black" stroke-width="2"/>
 <line x1="100" y1="15" x2="320" y2="228" stroke="black" stroke-width="2"/>
 <line x1="210" y1="15" x2="320" y2="121.5" stroke="black" stroke-width="2"/>
 <line x1="100" y1="121.5" x2="210" y2="228" stroke="black" stroke-width="2"/>
