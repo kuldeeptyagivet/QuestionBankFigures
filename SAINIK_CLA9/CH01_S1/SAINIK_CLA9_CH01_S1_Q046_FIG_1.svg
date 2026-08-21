@@ -1,0 +1,13 @@
+<svg viewBox="0 0 480 380" xmlns="http://www.w3.org/2000/svg" font-family="Arial, sans-serif">
+<polygon points="90,90 420,90 370,330 40,330" fill="none" stroke="#222" stroke-width="2"/>
+<line x1="40" y1="330" x2="420" y2="90" stroke="#222" stroke-width="1.5"/>
+<line x1="90" y1="90" x2="370" y2="330" stroke="#222" stroke-width="1.5"/>
+<circle cx="230.0" cy="210.0" r="2.5"/>
+<text x="82" y="80" font-size="16">D</text>
+<text x="426" y="80" font-size="16">C</text>
+<text x="22" y="348" font-size="16">A</text>
+<text x="376" y="348" font-size="16">B</text>
+<text x="236.0" y="196.0" font-size="14">O</text>
+<text x="70" y="316" font-size="13" fill="#c0392b">45&#176;</text>
+<text x="238.0" y="228.0" font-size="13" fill="#c0392b">110&#176;</text>
+</svg>

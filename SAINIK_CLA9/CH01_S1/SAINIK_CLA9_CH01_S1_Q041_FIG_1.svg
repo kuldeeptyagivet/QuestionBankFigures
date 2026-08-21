@@ -1,0 +1,18 @@
+<svg viewBox="0 0 520 400" xmlns="http://www.w3.org/2000/svg" font-family="Arial, sans-serif">
+<defs>
+    <marker id="arrow" markerWidth="10" markerHeight="10" refX="8" refY="3" orient="auto" markerUnits="strokeWidth">
+      <path d="M0,0 L8,3 L0,6 Z" fill="#222"/>
+    </marker>
+  </defs>
+<line x1="60" y1="340" x2="480" y2="340" stroke="#222" stroke-width="2" marker-end="url(#arrow)"/>
+<line x1="60" y1="340" x2="190" y2="90" stroke="#222" stroke-width="2"/>
+<line x1="190" y1="90" x2="230" y2="340" stroke="#222" stroke-width="2"/>
+<line x1="190" y1="90" x2="330" y2="340" stroke="#222" stroke-width="2"/>
+<circle cx="190" cy="90" r="2.5"/><circle cx="60" cy="340" r="2.5"/><circle cx="230" cy="340" r="2.5"/><circle cx="330" cy="340" r="2.5"/>
+<text x="184" y="80" font-size="16">a</text>
+<text x="46" y="356" font-size="15">b</text>
+<text x="224" y="362" font-size="15">c</text>
+<text x="274.0" y="304" font-size="15">e</text>
+<text x="332" y="362" font-size="15">d</text>
+<text x="456" y="362" font-size="15">g</text>
+</svg>

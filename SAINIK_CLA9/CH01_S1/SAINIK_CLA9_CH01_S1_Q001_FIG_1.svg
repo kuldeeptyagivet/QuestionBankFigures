@@ -1,0 +1,32 @@
+<svg viewBox="0 0 520 480" xmlns="http://www.w3.org/2000/svg" font-family="Arial, sans-serif">
+<defs>
+    <marker id="arrow" markerWidth="10" markerHeight="10" refX="8" refY="3" orient="auto" markerUnits="strokeWidth">
+      <path d="M0,0 L8,3 L0,6 Z" fill="#222"/>
+    </marker>
+  </defs>
+<line x1="80" y1="300" x2="460" y2="300" stroke="#222" stroke-width="2" marker-end="url(#arrow)"/>
+<line x1="80" y1="300" x2="60.9" y2="191.7" stroke="#222" stroke-width="2"/>
+<line x1="60.9" y1="191.7" x2="50.5" y2="132.6" stroke="#222" stroke-width="2" marker-end="url(#arrow)"/>
+<line x1="60.9" y1="191.7" x2="122.2" y2="140.3" stroke="#222" stroke-width="2" marker-end="url(#arrow)"/>
+<line x1="280" y1="300" x2="348.9" y2="242.1" stroke="#222" stroke-width="2" marker-end="url(#arrow)"/>
+<!-- parallel marks on AB and CD -->
+<text x="85.55" y="160.0" font-size="14">&#8250;</text>
+<text x="308.45" y="265.05" font-size="14">&#8250;</text>
+<!-- angle arc at M (100 deg) -->
+<path d="M 120 300 A 40 40 0 0 0 73.05407289332278 260.60768987951167" fill="none" stroke="#c0392b" stroke-width="1.5"/>
+<text x="110" y="268" font-size="15" fill="#c0392b">100&#176;</text>
+<!-- angle arc at A (3x deg between AP and AB) -->
+<path d="M 55.69055466999209 162.15576740963374 A 30 30 0 0 1 83.88133329356934 172.41637170940382" fill="none" stroke="#c0392b" stroke-width="1.5"/>
+<text x="94.9" y="165.7" font-size="14" fill="#c0392b">3x&#176;</text>
+<!-- angle arc at C (2x deg between CQ and CD) -->
+<path d="M 320 300 A 40 40 0 0 0 310.6417777247591 274.28849561253844" fill="none" stroke="#c0392b" stroke-width="1.5"/>
+<text x="310" y="276" font-size="14" fill="#c0392b">2x&#176;</text>
+<circle cx="80" cy="300" r="3"/><circle cx="280" cy="300" r="3"/><circle cx="60.9" cy="191.7" r="3"/>
+<text x="70" y="320" font-size="16">M</text>
+<text x="274" y="320" font-size="16">C</text>
+<text x="466" y="305" font-size="16">Q</text>
+<text x="40.9" y="196.7" font-size="16">A</text>
+<text x="32.5" y="136.6" font-size="16">P</text>
+<text x="130.2" y="144.3" font-size="16">B</text>
+<text x="356.9" y="240.1" font-size="16">D</text>
+</svg>

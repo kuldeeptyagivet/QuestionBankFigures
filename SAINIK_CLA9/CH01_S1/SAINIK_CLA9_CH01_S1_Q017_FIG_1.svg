@@ -1,0 +1,7 @@
+<svg viewBox="0 0 460 460" xmlns="http://www.w3.org/2000/svg" font-family="Arial, sans-serif">
+<path d="M220,220 L220.0,60.0 A160,160 0 0 1 314.0,349.4 Z" fill="#b2bec3" stroke="#222" stroke-width="1.5"/><path d="M220,220 L314.0,349.4 A160,160 0 0 1 170.6,372.2 Z" fill="#dfe6e9" stroke="#222" stroke-width="1.5"/><path d="M220,220 L170.6,372.2 A160,160 0 0 1 90.6,314.0 Z" fill="#ffffff" stroke="#222" stroke-width="1.5"/><path d="M220,220 L90.6,314.0 A160,160 0 0 1 90.6,126.0 Z" fill="#dfe6e9" stroke="#222" stroke-width="1.5"/><path d="M220,220 L90.6,126.0 A160,160 0 0 1 220.0,60.0 Z" fill="#ffffff" stroke="#222" stroke-width="1.5"/>
+<text x="396.9" y="162.5" font-size="14" text-anchor="middle">144&#176;</text><text x="249.1" y="403.7" font-size="14" text-anchor="middle">54&#176;</text><text x="110.7" y="370.5" font-size="14" text-anchor="middle">36&#176;</text><text x="34.0" y="220.0" font-size="14" text-anchor="middle">72&#176;</text><text x="135.6" y="54.3" font-size="14" text-anchor="middle">54&#176;</text>
+<line x1="220" y1="220" x2="220" y2="60" stroke="#222" stroke-width="1"/>
+<text x="150" y="226" font-size="13" text-anchor="middle">Household</text>
+<text x="150" y="244" font-size="13" text-anchor="middle">Expenditure</text>
+</svg>

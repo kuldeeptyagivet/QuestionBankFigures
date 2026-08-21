@@ -1,0 +1,38 @@
+<svg viewBox="0 0 900 300" xmlns="http://www.w3.org/2000/svg" font-family="Arial, sans-serif">
+<defs><marker id="ah" markerWidth="8" markerHeight="8" refX="6" refY="3" orient="auto"><path d="M0,0 L7,3 L0,6 Z" fill="#222"/></marker></defs>
+<!-- Mr. X stick figure -->
+<circle cx="40" cy="120" r="10" fill="none" stroke="#222" stroke-width="2.5"/>
+<line x1="40" y1="130" x2="40" y2="165" stroke="#222" stroke-width="2.5"/>
+<line x1="40" y1="140" x2="28" y2="150" stroke="#222" stroke-width="2.5"/>
+<line x1="40" y1="140" x2="52" y2="150" stroke="#222" stroke-width="2.5"/>
+<line x1="40" y1="165" x2="30" y2="185" stroke="#222" stroke-width="2.5"/>
+<line x1="40" y1="165" x2="50" y2="185" stroke="#222" stroke-width="2.5"/>
+<text x="40" y="205" font-size="16" text-anchor="middle">Mr. X</text>
+<line x1="60" y1="150" x2="110" y2="150" stroke="#222" stroke-width="2.5" marker-end="url(#ah)"/>
+
+<!-- diamond junction: 3 paths (top diagonal, straight middle, bottom diagonal) -->
+<line x1="110" y1="150" x2="180" y2="100" stroke="#222" stroke-width="2.5" marker-end="url(#ah)"/>
+<line x1="180" y1="100" x2="250" y2="150" stroke="#222" stroke-width="2.5" marker-end="url(#ah)"/>
+<line x1="110" y1="150" x2="250" y2="150" stroke="#222" stroke-width="2.5" marker-end="url(#ah)"/>
+<line x1="110" y1="150" x2="180" y2="200" stroke="#222" stroke-width="2.5" marker-end="url(#ah)"/>
+<line x1="180" y1="200" x2="250" y2="150" stroke="#222" stroke-width="2.5" marker-end="url(#ah)"/>
+<line x1="250" y1="150" x2="300" y2="150" stroke="#222" stroke-width="2.5" marker-end="url(#ah)"/>
+
+<!-- rectangle junction: 3 paths (left-up, straight middle, right-up) -->
+<line x1="300" y1="150" x2="330" y2="150" stroke="#222" stroke-width="2.5"/>
+<line x1="330" y1="150" x2="330" y2="80" stroke="#222" stroke-width="2.5" marker-end="url(#ah)"/>
+<line x1="330" y1="80" x2="410" y2="80" stroke="#222" stroke-width="2.5" marker-end="url(#ah)"/>
+<line x1="410" y1="80" x2="410" y2="150" stroke="#222" stroke-width="2.5" marker-end="url(#ah)"/>
+<line x1="330" y1="150" x2="410" y2="150" stroke="#222" stroke-width="2.5" marker-end="url(#ah)"/>
+<line x1="330" y1="150" x2="330" y2="220" stroke="#222" stroke-width="2.5" marker-end="url(#ah)"/>
+<line x1="330" y1="220" x2="410" y2="220" stroke="#222" stroke-width="2.5" marker-end="url(#ah)"/>
+<line x1="410" y1="220" x2="410" y2="150" stroke="#222" stroke-width="2.5" marker-end="url(#ah)"/>
+<line x1="410" y1="150" x2="460" y2="150" stroke="#222" stroke-width="2.5" marker-end="url(#ah)"/>
+
+<!-- house -->
+<polygon points="490,150 560,100 630,150" fill="#fff" stroke="#222" stroke-width="2.5"/>
+<rect x="500" y="150" width="120" height="80" fill="#fff" stroke="#222" stroke-width="2.5"/>
+<path d="M 515,230 L 515,195 A 12 12 0 0 1 539,195 L 539,230" fill="#fff" stroke="#222" stroke-width="2"/>
+<rect x="558" y="195" width="24" height="16" fill="#000"/>
+<rect x="590" y="195" width="24" height="16" fill="#000"/>
+</svg>

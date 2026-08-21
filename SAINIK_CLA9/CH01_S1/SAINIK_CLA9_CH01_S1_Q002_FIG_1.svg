@@ -1,0 +1,30 @@
+<svg viewBox="0 0 560 470" xmlns="http://www.w3.org/2000/svg" font-family="Arial, sans-serif">
+<defs>
+    <marker id="arrow" markerWidth="10" markerHeight="10" refX="8" refY="3" orient="auto" markerUnits="strokeWidth">
+      <path d="M0,0 L8,3 L0,6 Z" fill="#222"/>
+    </marker>
+  </defs>
+<line x1="204.57930314139952" y1="148.0858782406399" x2="434.5793031413995" y2="148.0858782406399" stroke="#222" stroke-width="2" marker-end="url(#arrow)"/>
+<line x1="257.67282369635575" y1="273.16637424994553" x2="487.67282369635575" y2="273.16637424994553" stroke="#222" stroke-width="2" marker-end="url(#arrow)"/>
+<line x1="60" y1="420" x2="320" y2="420" stroke="#222" stroke-width="2" marker-end="url(#arrow)"/>
+<line x1="204.57930314139952" y1="148.0858782406399" x2="60" y2="420" stroke="#222" stroke-width="2"/>
+<line x1="204.57930314139952" y1="148.0858782406399" x2="320" y2="420" stroke="#222" stroke-width="2" stroke-dasharray="5,4" marker-end="url(#arrow)"/>
+<line x1="434.5793031413995" y1="148.0858782406399" x2="487.67282369635575" y2="273.16637424994553" stroke="#222" stroke-width="2" stroke-dasharray="5,4" marker-end="url(#arrow)"/>
+<!-- parallel marks -->
+<text x="319.5793031413995" y="140.0858782406399" font-size="14">&#8250;</text>
+<text x="372.67282369635575" y="265.16637424994553" font-size="14">&#8250;</text>
+<text x="190.0" y="438" font-size="14">&#8250;</text>
+<text x="270.2896515706998" y="280.04293912031994" font-size="14">&#8250;&#8250;</text>
+<text x="469.1260634188776" y="206.6261262452927" font-size="14">&#8250;&#8250;</text>
+<!-- angle arcs -->
+<text x="194.57930314139952" y="174.0858782406399" font-size="14" fill="#c0392b">51&#176;</text>
+<text x="74" y="410" font-size="14" fill="#c0392b">62&#176;</text>
+<text x="265.67282369635575" y="291.16637424994553" font-size="14" fill="#c0392b">x</text>
+<circle cx="204.57930314139952" cy="148.0858782406399" r="3"/><circle cx="60" cy="420" r="3"/><circle cx="320" cy="420" r="3"/><circle cx="257.67282369635575" cy="273.16637424994553" r="3"/>
+<text x="186.57930314139952" y="142.0858782406399" font-size="16">A</text>
+<text x="440.5793031413995" y="142.0858782406399" font-size="16">E</text>
+<text x="239.67282369635575" y="275.16637424994553" font-size="16">F</text>
+<text x="493.67282369635575" y="267.16637424994553" font-size="16">D</text>
+<text x="42" y="438" font-size="16">B</text>
+<text x="326" y="438" font-size="16">C</text>
+</svg>
