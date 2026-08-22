@@ -1,0 +1,16 @@
+<svg viewBox="0 0 420 260" xmlns="http://www.w3.org/2000/svg">
+<rect width="420" height="260" fill="white"/>
+<polygon points="60,180 340,180 240,60 140,60" fill="none" stroke="black" stroke-width="1.5"/>
+<line x1="140" y1="60" x2="140" y2="180" stroke="black" stroke-width="1.5"/>
+<rect x="140" y="165" width="15" height="15" fill="none" stroke="black" stroke-width="1"/>
+<circle cx="140" cy="60" r="2.5" fill="black"/>
+<circle cx="240" cy="60" r="2.5" fill="black"/>
+<circle cx="60" cy="180" r="2.5" fill="black"/>
+<circle cx="140" cy="180" r="2.5" fill="black"/>
+<circle cx="340" cy="180" r="2.5" fill="black"/>
+<text x="128" y="48" font-size="17" font-family="serif">D</text>
+<text x="238" y="48" font-size="17" font-family="serif">C</text>
+<text x="45" y="205" font-size="17" font-family="serif">A</text>
+<text x="132" y="205" font-size="17" font-family="serif">E</text>
+<text x="345" y="205" font-size="17" font-family="serif">B</text>
+</svg>

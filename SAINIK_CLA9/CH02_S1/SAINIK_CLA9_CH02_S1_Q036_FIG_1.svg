@@ -1,0 +1,21 @@
+<svg viewBox="0 0 620 140" xmlns="http://www.w3.org/2000/svg">
+<rect width="620" height="140" fill="white"/>
+<g font-family="serif" font-size="16">
+<rect x="10" y="10" width="600" height="120" fill="none" stroke="black" stroke-width="1.2"/>
+<line x1="130" y1="10" x2="130" y2="130" stroke="black" stroke-width="1"/>
+<line x1="250" y1="10" x2="250" y2="130" stroke="black" stroke-width="1"/>
+<line x1="370" y1="10" x2="370" y2="130" stroke="black" stroke-width="1"/>
+<line x1="490" y1="10" x2="490" y2="130" stroke="black" stroke-width="1"/>
+<line x1="10" y1="70" x2="610" y2="70" stroke="black" stroke-width="1"/>
+<text x="30" y="45" font-weight="bold">Maths</text>
+<text x="150" y="45" font-weight="bold">English</text>
+<text x="270" y="45" font-weight="bold">Hindi</text>
+<text x="385" y="45" font-weight="bold">Science</text>
+<text x="500" y="45" font-weight="bold">Social Science</text>
+<text x="55" y="105">95</text>
+<text x="175" y="105">72</text>
+<text x="290" y="105">80</text>
+<text x="410" y="105">68</text>
+<text x="545" y="105">65</text>
+</g>
+</svg>

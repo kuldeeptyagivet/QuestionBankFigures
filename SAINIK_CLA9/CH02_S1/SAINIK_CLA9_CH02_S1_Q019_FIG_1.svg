@@ -1,0 +1,14 @@
+<svg viewBox="0 0 400 320" xmlns="http://www.w3.org/2000/svg">
+<rect width="400" height="320" fill="white"/>
+<line x1="60" y1="260" x2="340" y2="260" stroke="black" stroke-width="1.5" marker-end="url(#arr)"/>
+<line x1="60" y1="260" x2="60" y2="30" stroke="black" stroke-width="1.5" marker-end="url(#arr)"/>
+<defs><marker id="arr" markerWidth="8" markerHeight="8" refX="4" refY="4" orient="auto"><path d="M0,0 L8,4 L0,8 Z" fill="black"/></marker></defs>
+<rect x="60" y="240" width="20" height="20" fill="none" stroke="black" stroke-width="1"/>
+<line x1="60" y1="60" x2="260" y2="260" stroke="black" stroke-width="1.5"/>
+<circle cx="60" cy="260" r="3" fill="black"/>
+<circle cx="260" cy="260" r="3" fill="black"/>
+<circle cx="60" cy="60" r="3" fill="black"/>
+<text x="20" y="275" font-size="16" font-family="serif">O(0, 0)</text>
+<text x="255" y="285" font-size="16" font-family="serif">A(3, 0)</text>
+<text x="70" y="55" font-size="16" font-family="serif">B(0, 4)</text>
+</svg>

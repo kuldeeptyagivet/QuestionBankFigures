@@ -1,0 +1,23 @@
+<svg viewBox="0 0 460 380" xmlns="http://www.w3.org/2000/svg">
+<rect width="460" height="380" fill="white"/>
+<line x1="40" y1="300" x2="420" y2="300" stroke="black" stroke-width="1.5"/>
+<polygon points="150,300 100,180 230,90 360,180 310,300" fill="none" stroke="black" stroke-width="1.5"/>
+<circle cx="150" cy="300" r="2.5" fill="black"/>
+<circle cx="100" cy="180" r="2.5" fill="black"/>
+<circle cx="230" cy="90" r="2.5" fill="black"/>
+<circle cx="360" cy="180" r="2.5" fill="black"/>
+<circle cx="310" cy="300" r="2.5" fill="black"/>
+<text x="140" y="322" font-size="16" font-family="serif">A</text>
+<text x="70" y="185" font-size="16" font-family="serif">B</text>
+<text x="222" y="78" font-size="16" font-family="serif">C</text>
+<text x="368" y="185" font-size="16" font-family="serif">D</text>
+<text x="308" y="322" font-size="16" font-family="serif">E</text>
+<text x="42" y="322" font-size="16" font-family="serif">G</text>
+<text x="425" y="322" font-size="16" font-family="serif">F</text>
+<!-- angle labels -->
+<text x="222" y="105" font-size="15" font-family="serif">40°</text>
+<text x="105" y="195" font-size="15" font-family="serif">x</text>
+<text x="345" y="195" font-size="15" font-family="serif">x</text>
+<text x="118" y="292" font-size="14" font-family="serif">60°</text>
+<text x="270" y="292" font-size="14" font-family="serif">50°</text>
+</svg>

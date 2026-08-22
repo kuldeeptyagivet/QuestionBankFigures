@@ -1,0 +1,16 @@
+<svg viewBox="0 0 440 380" xmlns="http://www.w3.org/2000/svg">
+<rect width="440" height="380" fill="white"/>
+<circle cx="220" cy="190" r="130" fill="none" stroke="black" stroke-width="1.5"/>
+<path d="M220,190 L220.00,60.00 A130,130 0 0 1 342.16,234.46 Z" fill="none" stroke="black" stroke-width="1.5"/>
+<path d="M220,190 L342.16,234.46 A130,130 0 0 1 155.00,302.58 Z" fill="none" stroke="black" stroke-width="1.5"/>
+<path d="M220,190 L155.00,302.58 A130,130 0 0 1 112.23,117.30 Z" fill="none" stroke="black" stroke-width="1.5"/>
+<path d="M220,190 L112.23,117.30 A130,130 0 0 1 220.00,60.00 Z" fill="none" stroke="black" stroke-width="1.5"/>
+<text x="345.7" y="102.0" font-size="17" font-family="serif" text-anchor="middle">A</text>
+<text x="283.9" y="145.3" font-size="15" font-family="serif" text-anchor="middle">110°</text>
+<text x="272.5" y="334.1" font-size="17" font-family="serif" text-anchor="middle">B</text>
+<text x="246.7" y="263.3" font-size="15" font-family="serif" text-anchor="middle">100°</text>
+<text x="70.5" y="224.5" font-size="17" font-family="serif" text-anchor="middle">C</text>
+<text x="144.0" y="207.5" font-size="15" font-family="serif" text-anchor="middle">94°</text>
+<text x="148.0" y="54.6" font-size="17" font-family="serif" text-anchor="middle">D</text>
+<text x="183.4" y="121.1" font-size="15" font-family="serif" text-anchor="middle">56°</text>
+</svg>
