@@ -1,0 +1,20 @@
+<svg viewBox="0 0 300 280" xmlns="http://www.w3.org/2000/svg">
+<rect x="0" y="0" width="300" height="280" fill="#ffffff"/>
+<line x1="60.0" y1="60.0" x2="240.0" y2="60.0" stroke="#333333" stroke-width="1.5"/>
+<line x1="60.0" y1="60.0" x2="60.0" y2="240.0" stroke="#333333" stroke-width="1.5"/>
+<line x1="240.0" y1="60.0" x2="240.0" y2="240.0" stroke="#333333" stroke-width="1.5"/>
+<line x1="60.0" y1="240.0" x2="240.0" y2="240.0" stroke="#333333" stroke-width="1.5"/>
+<line x1="60.0" y1="240.0" x2="240.0" y2="60.0" stroke="#333333" stroke-width="1.5"/>
+<line x1="60.0" y1="60.0" x2="240.0" y2="240.0" stroke="#333333" stroke-width="1.5"/>
+<line x1="60.0" y1="60.0" x2="240.0" y2="175.0" stroke="#333333" stroke-width="1.5"/>
+<text x="54.0" y="56.0" font-family="sans-serif" font-size="13" font-weight="normal" fill="#333333" text-anchor="end">D</text>
+<text x="246.0" y="56.0" font-family="sans-serif" font-size="13" font-weight="normal" fill="#333333" text-anchor="start">C</text>
+<text x="54.0" y="254.0" font-family="sans-serif" font-size="13" font-weight="normal" fill="#333333" text-anchor="end">A</text>
+<text x="246.0" y="254.0" font-family="sans-serif" font-size="13" font-weight="normal" fill="#333333" text-anchor="start">B</text>
+<text x="165.8" y="146.2" font-family="sans-serif" font-size="13" font-weight="normal" fill="#333333" text-anchor="end">O</text>
+<text x="248.0" y="175.0" font-family="sans-serif" font-size="13" font-weight="normal" fill="#333333" text-anchor="start">X</text>
+<path d="M 188.2 111.8 A 26 26 0 0 0 147.9 116.2" fill="none" stroke="#333333" stroke-width="1.2"/>
+<text x="165.5" y="94.4" font-family="sans-serif" font-size="12" font-weight="normal" fill="#333333" text-anchor="middle">115°</text>
+<path d="M 240.0 155.0 A 20 20 0 0 0 223.1 164.2" fill="none" stroke="#333333" stroke-width="1.2"/>
+<text x="224.1" y="150.1" font-family="sans-serif" font-size="12" font-weight="normal" fill="#333333" text-anchor="middle">x°</text>
+</svg>

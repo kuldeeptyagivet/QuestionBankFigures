@@ -1,0 +1,15 @@
+<svg viewBox="0 0 300 260" xmlns="http://www.w3.org/2000/svg">
+<rect x="0" y="0" width="300" height="260" fill="#ffffff"/>
+<line x1="230.4" y1="62.5" x2="69.6" y2="197.5" stroke="#333333" stroke-width="1.5"/>
+<line x1="82.5" y1="49.6" x2="217.5" y2="210.4" stroke="#333333" stroke-width="1.5"/>
+<text x="240.4" y="54.2" font-family="sans-serif" font-size="13" font-weight="normal" fill="#333333" text-anchor="middle">p</text>
+<text x="74.2" y="39.6" font-family="sans-serif" font-size="13" font-weight="normal" fill="#333333" text-anchor="middle">q</text>
+<path d="M 169.9 113.3 A 26 26 0 0 0 133.3 110.1" fill="none" stroke="#333333" stroke-width="1.2"/>
+<text x="153.4" y="95.1" font-family="sans-serif" font-size="12" font-weight="normal" fill="#333333" text-anchor="middle">z°</text>
+<path d="M 133.3 110.1 A 26 26 0 0 0 130.1 146.7" fill="none" stroke="#333333" stroke-width="1.2"/>
+<text x="111.1" y="130.6" font-family="sans-serif" font-size="12" font-weight="normal" fill="#333333" text-anchor="middle">y°</text>
+<path d="M 130.1 146.7 A 26 26 0 0 0 166.7 149.9" fill="none" stroke="#333333" stroke-width="1.2"/>
+<text x="146.6" y="172.9" font-family="sans-serif" font-size="12" font-weight="normal" fill="#333333" text-anchor="middle">x°</text>
+<path d="M 166.7 149.9 A 26 26 0 0 0 169.9 113.3" fill="none" stroke="#333333" stroke-width="1.2"/>
+<text x="188.9" y="137.4" font-family="sans-serif" font-size="12" font-weight="normal" fill="#333333" text-anchor="middle">u°</text>
+</svg>

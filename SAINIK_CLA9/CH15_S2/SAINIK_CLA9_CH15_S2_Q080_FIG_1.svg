@@ -1,0 +1,20 @@
+<svg viewBox="0 0 320 260" xmlns="http://www.w3.org/2000/svg">
+<rect x="0" y="0" width="320" height="260" fill="#ffffff"/>
+<line x1="50.0" y1="220.0" x2="280.0" y2="220.0" stroke="#333333" stroke-width="1.5"/>
+<line x1="110.0" y1="90.0" x2="230.0" y2="90.0" stroke="#333333" stroke-width="1.5"/>
+<line x1="110.0" y1="90.0" x2="170.0" y2="220.0" stroke="#333333" stroke-width="1.5"/>
+<line x1="230.0" y1="90.0" x2="170.0" y2="220.0" stroke="#333333" stroke-width="1.5"/>
+<text x="44.0" y="224.0" font-family="sans-serif" font-size="13" font-weight="normal" fill="#333333" text-anchor="end">B</text>
+<text x="286.0" y="224.0" font-family="sans-serif" font-size="13" font-weight="normal" fill="#333333" text-anchor="start">E</text>
+<text x="110.0" y="82.0" font-family="sans-serif" font-size="13" font-weight="normal" fill="#333333" text-anchor="middle">A</text>
+<text x="234.0" y="82.0" font-family="sans-serif" font-size="13" font-weight="normal" fill="#333333" text-anchor="start">D</text>
+<text x="170.0" y="236.0" font-family="sans-serif" font-size="13" font-weight="normal" fill="#333333" text-anchor="middle">C</text>
+<path d="M 74.0 220.0 A 24 24 0 0 0 60.1 198.2" fill="none" stroke="#333333" stroke-width="1.2"/>
+<text x="81.2" y="204.1" font-family="sans-serif" font-size="12" font-weight="normal" fill="#333333" text-anchor="middle">4x°</text>
+<path d="M 160.8 200.0 A 22 22 0 0 0 148.0 220.0" fill="none" stroke="#333333" stroke-width="1.2"/>
+<text x="140.5" y="205.1" font-family="sans-serif" font-size="12" font-weight="normal" fill="#333333" text-anchor="middle">3x°</text>
+<path d="M 192.0 220.0 A 22 22 0 0 0 179.2 200.0" fill="none" stroke="#333333" stroke-width="1.2"/>
+<text x="200.3" y="204.6" font-family="sans-serif" font-size="12" font-weight="normal" fill="#333333" text-anchor="middle">3x°</text>
+<path d="M 272.1 199.5 A 22 22 0 0 0 258.0 220.0" fill="none" stroke="#333333" stroke-width="1.2"/>
+<text x="251.1" y="204.2" font-family="sans-serif" font-size="12" font-weight="normal" fill="#333333" text-anchor="middle">y°</text>
+</svg>
