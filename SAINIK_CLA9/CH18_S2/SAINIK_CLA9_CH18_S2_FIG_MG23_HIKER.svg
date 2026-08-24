@@ -1,0 +1,75 @@
+<svg viewBox="0 0 340 260" xmlns="http://www.w3.org/2000/svg">
+<rect x="0" y="0" width="340" height="260" fill="#ffffff"/>
+<defs>
+<pattern id="hatch_diag1" width="6" height="6" patternTransform="rotate(45)" patternUnits="userSpaceOnUse"><rect width="6" height="6" fill="#ffffff"/><line x1="0" y1="0" x2="0" y2="6" stroke="#333333" stroke-width="1.5"/></pattern>
+<pattern id="hatch_diag2" width="6" height="6" patternTransform="rotate(-45)" patternUnits="userSpaceOnUse"><rect width="6" height="6" fill="#ffffff"/><line x1="0" y1="0" x2="0" y2="6" stroke="#333333" stroke-width="1.5"/></pattern>
+<pattern id="hatch_dots" width="7" height="7" patternUnits="userSpaceOnUse"><rect width="7" height="7" fill="#ffffff"/><circle cx="3.5" cy="3.5" r="1.3" fill="#333333"/></pattern>
+<pattern id="hatch_grid" width="6" height="6" patternUnits="userSpaceOnUse"><rect width="6" height="6" fill="#ffffff"/><line x1="0" y1="0" x2="6" y2="0" stroke="#333333" stroke-width="1"/><line x1="0" y1="0" x2="0" y2="6" stroke="#333333" stroke-width="1"/></pattern>
+<pattern id="hatch_horiz" width="6" height="6" patternUnits="userSpaceOnUse"><rect width="6" height="6" fill="#ffffff"/><line x1="0" y1="3" x2="6" y2="3" stroke="#333333" stroke-width="1.5"/></pattern>
+<pattern id="hatch_vert" width="6" height="6" patternUnits="userSpaceOnUse"><rect width="6" height="6" fill="#ffffff"/><line x1="3" y1="0" x2="3" y2="6" stroke="#333333" stroke-width="1.5"/></pattern>
+<pattern id="solid_dark" width="4" height="4" patternUnits="userSpaceOnUse"><rect width="4" height="4" fill="#555555"/></pattern>
+<pattern id="solid_light" width="4" height="4" patternUnits="userSpaceOnUse"><rect width="4" height="4" fill="#dddddd"/></pattern>
+</defs>
+<line x1="58.5" y1="16.0" x2="58.5" y2="228.0" stroke="#cccccc" stroke-width="0.7"/>
+<line x1="75.0" y1="16.0" x2="75.0" y2="228.0" stroke="#cccccc" stroke-width="0.7"/>
+<line x1="91.5" y1="16.0" x2="91.5" y2="228.0" stroke="#cccccc" stroke-width="0.7"/>
+<line x1="108.0" y1="16.0" x2="108.0" y2="228.0" stroke="#cccccc" stroke-width="0.7"/>
+<line x1="124.5" y1="16.0" x2="124.5" y2="228.0" stroke="#cccccc" stroke-width="0.7"/>
+<line x1="141.0" y1="16.0" x2="141.0" y2="228.0" stroke="#cccccc" stroke-width="0.7"/>
+<line x1="157.5" y1="16.0" x2="157.5" y2="228.0" stroke="#cccccc" stroke-width="0.7"/>
+<line x1="174.0" y1="16.0" x2="174.0" y2="228.0" stroke="#cccccc" stroke-width="0.7"/>
+<line x1="190.5" y1="16.0" x2="190.5" y2="228.0" stroke="#cccccc" stroke-width="0.7"/>
+<line x1="207.0" y1="16.0" x2="207.0" y2="228.0" stroke="#cccccc" stroke-width="0.7"/>
+<line x1="223.5" y1="16.0" x2="223.5" y2="228.0" stroke="#cccccc" stroke-width="0.7"/>
+<line x1="240.0" y1="16.0" x2="240.0" y2="228.0" stroke="#cccccc" stroke-width="0.7"/>
+<line x1="256.5" y1="16.0" x2="256.5" y2="228.0" stroke="#cccccc" stroke-width="0.7"/>
+<line x1="273.0" y1="16.0" x2="273.0" y2="228.0" stroke="#cccccc" stroke-width="0.7"/>
+<line x1="289.5" y1="16.0" x2="289.5" y2="228.0" stroke="#cccccc" stroke-width="0.7"/>
+<line x1="306.0" y1="16.0" x2="306.0" y2="228.0" stroke="#cccccc" stroke-width="0.7"/>
+<line x1="42.0" y1="16.0" x2="42.0" y2="228.0" stroke="#333333" stroke-width="1.3"/>
+<line x1="42.0" y1="228.0" x2="306.0" y2="228.0" stroke="#333333" stroke-width="1.3"/>
+<line x1="39.0" y1="228.0" x2="42.0" y2="228.0" stroke="#333333" stroke-width="1"/>
+<text x="35.0" y="231.0" font-family="sans-serif" font-size="9" font-weight="normal" fill="#333333" text-anchor="end">0</text>
+<line x1="39.0" y1="210.3" x2="42.0" y2="210.3" stroke="#333333" stroke-width="1"/>
+<text x="35.0" y="213.3" font-family="sans-serif" font-size="9" font-weight="normal" fill="#333333" text-anchor="end">2</text>
+<line x1="39.0" y1="192.7" x2="42.0" y2="192.7" stroke="#333333" stroke-width="1"/>
+<text x="35.0" y="195.7" font-family="sans-serif" font-size="9" font-weight="normal" fill="#333333" text-anchor="end">4</text>
+<line x1="39.0" y1="175.0" x2="42.0" y2="175.0" stroke="#333333" stroke-width="1"/>
+<text x="35.0" y="178.0" font-family="sans-serif" font-size="9" font-weight="normal" fill="#333333" text-anchor="end">6</text>
+<line x1="39.0" y1="157.3" x2="42.0" y2="157.3" stroke="#333333" stroke-width="1"/>
+<text x="35.0" y="160.3" font-family="sans-serif" font-size="9" font-weight="normal" fill="#333333" text-anchor="end">8</text>
+<line x1="39.0" y1="139.7" x2="42.0" y2="139.7" stroke="#333333" stroke-width="1"/>
+<text x="35.0" y="142.7" font-family="sans-serif" font-size="9" font-weight="normal" fill="#333333" text-anchor="end">10</text>
+<line x1="39.0" y1="122.0" x2="42.0" y2="122.0" stroke="#333333" stroke-width="1"/>
+<text x="35.0" y="125.0" font-family="sans-serif" font-size="9" font-weight="normal" fill="#333333" text-anchor="end">12</text>
+<line x1="39.0" y1="104.3" x2="42.0" y2="104.3" stroke="#333333" stroke-width="1"/>
+<text x="35.0" y="107.3" font-family="sans-serif" font-size="9" font-weight="normal" fill="#333333" text-anchor="end">14</text>
+<line x1="39.0" y1="86.7" x2="42.0" y2="86.7" stroke="#333333" stroke-width="1"/>
+<text x="35.0" y="89.7" font-family="sans-serif" font-size="9" font-weight="normal" fill="#333333" text-anchor="end">16</text>
+<line x1="39.0" y1="69.0" x2="42.0" y2="69.0" stroke="#333333" stroke-width="1"/>
+<text x="35.0" y="72.0" font-family="sans-serif" font-size="9" font-weight="normal" fill="#333333" text-anchor="end">18</text>
+<line x1="39.0" y1="51.3" x2="42.0" y2="51.3" stroke="#333333" stroke-width="1"/>
+<text x="35.0" y="54.3" font-family="sans-serif" font-size="9" font-weight="normal" fill="#333333" text-anchor="end">20</text>
+<line x1="39.0" y1="33.7" x2="42.0" y2="33.7" stroke="#333333" stroke-width="1"/>
+<text x="35.0" y="36.7" font-family="sans-serif" font-size="9" font-weight="normal" fill="#333333" text-anchor="end">22</text>
+<line x1="39.0" y1="16.0" x2="42.0" y2="16.0" stroke="#333333" stroke-width="1"/>
+<text x="35.0" y="19.0" font-family="sans-serif" font-size="9" font-weight="normal" fill="#333333" text-anchor="end">24</text>
+<polyline points="42.0,228.0 108.0,157.3 174.0,104.3 207.0,104.3 306.0,33.7" fill="none" stroke="#333333" stroke-width="1.6"/>
+<circle cx="42.0" cy="228.0" r="2.4" fill="#333333"/>
+<text x="42.0" y="241.0" font-family="sans-serif" font-size="9" font-weight="normal" fill="#333333" text-anchor="middle">7 am</text>
+<text x="42.0" y="221.0" font-family="sans-serif" font-size="8" font-weight="normal" fill="#333333" text-anchor="middle">0</text>
+<circle cx="108.0" cy="157.3" r="2.4" fill="#333333"/>
+<text x="108.0" y="241.0" font-family="sans-serif" font-size="9" font-weight="normal" fill="#333333" text-anchor="middle">8 am</text>
+<text x="108.0" y="150.3" font-family="sans-serif" font-size="8" font-weight="normal" fill="#333333" text-anchor="middle">8</text>
+<circle cx="174.0" cy="104.3" r="2.4" fill="#333333"/>
+<text x="174.0" y="241.0" font-family="sans-serif" font-size="9" font-weight="normal" fill="#333333" text-anchor="middle">9 am</text>
+<text x="174.0" y="97.3" font-family="sans-serif" font-size="8" font-weight="normal" fill="#333333" text-anchor="middle">14</text>
+<circle cx="207.0" cy="104.3" r="2.4" fill="#333333"/>
+<text x="207.0" y="241.0" font-family="sans-serif" font-size="9" font-weight="normal" fill="#333333" text-anchor="middle">9:30 am</text>
+<text x="207.0" y="97.3" font-family="sans-serif" font-size="8" font-weight="normal" fill="#333333" text-anchor="middle">14</text>
+<circle cx="306.0" cy="33.7" r="2.4" fill="#333333"/>
+<text x="306.0" y="241.0" font-family="sans-serif" font-size="9" font-weight="normal" fill="#333333" text-anchor="middle">11 am</text>
+<text x="306.0" y="26.7" font-family="sans-serif" font-size="8" font-weight="normal" fill="#333333" text-anchor="middle">22</text>
+<text x="12" y="122.0" font-family="sans-serif" font-size="10" fill="#333333" text-anchor="middle" transform="rotate(-90 12 122.0)">Distance (in km)</text>
+<text x="160.0" y="258.0" font-family="sans-serif" font-size="10" font-weight="normal" fill="#333333" text-anchor="middle">Time</text>
+</svg>

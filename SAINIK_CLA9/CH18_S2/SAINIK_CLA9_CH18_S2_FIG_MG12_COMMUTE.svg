@@ -1,0 +1,28 @@
+<svg viewBox="0 0 300 280" xmlns="http://www.w3.org/2000/svg">
+<rect x="0" y="0" width="300" height="280" fill="#ffffff"/>
+<defs>
+<pattern id="hatch_diag1" width="6" height="6" patternTransform="rotate(45)" patternUnits="userSpaceOnUse"><rect width="6" height="6" fill="#ffffff"/><line x1="0" y1="0" x2="0" y2="6" stroke="#333333" stroke-width="1.5"/></pattern>
+<pattern id="hatch_diag2" width="6" height="6" patternTransform="rotate(-45)" patternUnits="userSpaceOnUse"><rect width="6" height="6" fill="#ffffff"/><line x1="0" y1="0" x2="0" y2="6" stroke="#333333" stroke-width="1.5"/></pattern>
+<pattern id="hatch_dots" width="7" height="7" patternUnits="userSpaceOnUse"><rect width="7" height="7" fill="#ffffff"/><circle cx="3.5" cy="3.5" r="1.3" fill="#333333"/></pattern>
+<pattern id="hatch_grid" width="6" height="6" patternUnits="userSpaceOnUse"><rect width="6" height="6" fill="#ffffff"/><line x1="0" y1="0" x2="6" y2="0" stroke="#333333" stroke-width="1"/><line x1="0" y1="0" x2="0" y2="6" stroke="#333333" stroke-width="1"/></pattern>
+<pattern id="hatch_horiz" width="6" height="6" patternUnits="userSpaceOnUse"><rect width="6" height="6" fill="#ffffff"/><line x1="0" y1="3" x2="6" y2="3" stroke="#333333" stroke-width="1.5"/></pattern>
+<pattern id="hatch_vert" width="6" height="6" patternUnits="userSpaceOnUse"><rect width="6" height="6" fill="#ffffff"/><line x1="3" y1="0" x2="3" y2="6" stroke="#333333" stroke-width="1.5"/></pattern>
+<pattern id="solid_dark" width="4" height="4" patternUnits="userSpaceOnUse"><rect width="4" height="4" fill="#555555"/></pattern>
+<pattern id="solid_light" width="4" height="4" patternUnits="userSpaceOnUse"><rect width="4" height="4" fill="#dddddd"/></pattern>
+</defs>
+<path d="M 150 130 L 150.0 35.0 A 95 95 0 0 1 239.3 162.5 Z" fill="url(#hatch_diag1)" stroke="#333333" stroke-width="1.3"/>
+<text x="198.2" y="91.2" font-family="sans-serif" font-size="9" font-weight="normal" fill="#333333" text-anchor="middle">Bike</text>
+<text x="198.2" y="103.2" font-family="sans-serif" font-size="9" font-weight="normal" fill="#333333" text-anchor="middle">110°</text>
+<path d="M 150 130 L 239.3 162.5 A 95 95 0 0 1 102.5 212.3 Z" fill="url(#hatch_dots)" stroke="#333333" stroke-width="1.3"/>
+<text x="170.1" y="180.3" font-family="sans-serif" font-size="9" font-weight="normal" fill="#333333" text-anchor="middle">Bus</text>
+<text x="170.1" y="192.3" font-family="sans-serif" font-size="9" font-weight="normal" fill="#333333" text-anchor="middle">100°</text>
+<path d="M 150 130 L 102.5 212.3 A 95 95 0 0 1 56.4 113.5 Z" fill="url(#hatch_grid)" stroke="#333333" stroke-width="1.3"/>
+<text x="96.6" y="149.9" font-family="sans-serif" font-size="9" font-weight="normal" fill="#333333" text-anchor="middle">Walk</text>
+<text x="96.6" y="161.9" font-family="sans-serif" font-size="9" font-weight="normal" fill="#333333" text-anchor="middle">70°</text>
+<path d="M 150 130 L 56.4 113.5 A 95 95 0 0 1 88.9 57.2 Z" fill="url(#hatch_horiz)" stroke="#333333" stroke-width="1.3"/>
+<text x="99.0" y="95.5" font-family="sans-serif" font-size="9" font-weight="normal" fill="#333333" text-anchor="middle">Cab</text>
+<text x="99.0" y="107.5" font-family="sans-serif" font-size="9" font-weight="normal" fill="#333333" text-anchor="middle">40°</text>
+<path d="M 150 130 L 88.9 57.2 A 95 95 0 0 1 150.0 35.0 Z" fill="url(#hatch_vert)" stroke="#333333" stroke-width="1.3"/>
+<text x="129.9" y="69.7" font-family="sans-serif" font-size="9" font-weight="normal" fill="#333333" text-anchor="middle">Train</text>
+<text x="129.9" y="81.7" font-family="sans-serif" font-size="9" font-weight="normal" fill="#333333" text-anchor="middle">40°</text>
+</svg>

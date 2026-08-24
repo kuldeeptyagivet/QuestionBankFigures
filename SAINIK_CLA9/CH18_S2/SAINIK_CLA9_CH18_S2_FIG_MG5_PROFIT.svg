@@ -1,0 +1,44 @@
+<svg viewBox="0 0 340 260" xmlns="http://www.w3.org/2000/svg">
+<rect x="0" y="0" width="340" height="260" fill="#ffffff"/>
+<defs>
+<pattern id="hatch_diag1" width="6" height="6" patternTransform="rotate(45)" patternUnits="userSpaceOnUse"><rect width="6" height="6" fill="#ffffff"/><line x1="0" y1="0" x2="0" y2="6" stroke="#333333" stroke-width="1.5"/></pattern>
+<pattern id="hatch_diag2" width="6" height="6" patternTransform="rotate(-45)" patternUnits="userSpaceOnUse"><rect width="6" height="6" fill="#ffffff"/><line x1="0" y1="0" x2="0" y2="6" stroke="#333333" stroke-width="1.5"/></pattern>
+<pattern id="hatch_dots" width="7" height="7" patternUnits="userSpaceOnUse"><rect width="7" height="7" fill="#ffffff"/><circle cx="3.5" cy="3.5" r="1.3" fill="#333333"/></pattern>
+<pattern id="hatch_grid" width="6" height="6" patternUnits="userSpaceOnUse"><rect width="6" height="6" fill="#ffffff"/><line x1="0" y1="0" x2="6" y2="0" stroke="#333333" stroke-width="1"/><line x1="0" y1="0" x2="0" y2="6" stroke="#333333" stroke-width="1"/></pattern>
+<pattern id="hatch_horiz" width="6" height="6" patternUnits="userSpaceOnUse"><rect width="6" height="6" fill="#ffffff"/><line x1="0" y1="3" x2="6" y2="3" stroke="#333333" stroke-width="1.5"/></pattern>
+<pattern id="hatch_vert" width="6" height="6" patternUnits="userSpaceOnUse"><rect width="6" height="6" fill="#ffffff"/><line x1="3" y1="0" x2="3" y2="6" stroke="#333333" stroke-width="1.5"/></pattern>
+<pattern id="solid_dark" width="4" height="4" patternUnits="userSpaceOnUse"><rect width="4" height="4" fill="#555555"/></pattern>
+<pattern id="solid_light" width="4" height="4" patternUnits="userSpaceOnUse"><rect width="4" height="4" fill="#dddddd"/></pattern>
+</defs>
+<line x1="42.0" y1="26.0" x2="42.0" y2="224.0" stroke="#333333" stroke-width="1.3"/>
+<line x1="42.0" y1="224.0" x2="326.0" y2="224.0" stroke="#333333" stroke-width="1.3"/>
+<line x1="39.0" y1="224.0" x2="42.0" y2="224.0" stroke="#333333" stroke-width="1"/>
+<text x="35.0" y="227.0" font-family="sans-serif" font-size="9" font-weight="normal" fill="#333333" text-anchor="end">0</text>
+<line x1="39.0" y1="184.5" x2="42.0" y2="184.5" stroke="#333333" stroke-width="1"/>
+<text x="35.0" y="187.5" font-family="sans-serif" font-size="9" font-weight="normal" fill="#333333" text-anchor="end">11</text>
+<line x1="39.0" y1="145.1" x2="42.0" y2="145.1" stroke="#333333" stroke-width="1"/>
+<text x="35.0" y="148.1" font-family="sans-serif" font-size="9" font-weight="normal" fill="#333333" text-anchor="end">22</text>
+<line x1="39.0" y1="105.6" x2="42.0" y2="105.6" stroke="#333333" stroke-width="1"/>
+<text x="35.0" y="108.6" font-family="sans-serif" font-size="9" font-weight="normal" fill="#333333" text-anchor="end">33</text>
+<line x1="39.0" y1="66.2" x2="42.0" y2="66.2" stroke="#333333" stroke-width="1"/>
+<text x="35.0" y="69.2" font-family="sans-serif" font-size="9" font-weight="normal" fill="#333333" text-anchor="end">44</text>
+<line x1="39.0" y1="26.7" x2="42.0" y2="26.7" stroke="#333333" stroke-width="1"/>
+<text x="35.0" y="29.7" font-family="sans-serif" font-size="9" font-weight="normal" fill="#333333" text-anchor="end">55</text>
+<rect x="49.1" y="137.9" width="24.8" height="86.1" fill="url(#hatch_grid)" stroke="#333333" stroke-width="1"/>
+<rect x="74.0" y="195.3" width="24.8" height="28.7" fill="url(#solid_dark)" stroke="#333333" stroke-width="1"/>
+<text x="74.0" y="237.0" font-family="sans-serif" font-size="9" font-weight="normal" fill="#333333" text-anchor="middle">2001</text>
+<rect x="120.1" y="94.9" width="24.8" height="129.1" fill="url(#hatch_grid)" stroke="#333333" stroke-width="1"/>
+<rect x="144.9" y="181.0" width="24.8" height="43.0" fill="url(#solid_dark)" stroke="#333333" stroke-width="1"/>
+<text x="144.9" y="237.0" font-family="sans-serif" font-size="9" font-weight="normal" fill="#333333" text-anchor="middle">2002</text>
+<rect x="191.1" y="73.3" width="24.8" height="150.7" fill="url(#hatch_grid)" stroke="#333333" stroke-width="1"/>
+<rect x="215.9" y="170.2" width="24.8" height="53.8" fill="url(#solid_dark)" stroke="#333333" stroke-width="1"/>
+<text x="215.9" y="237.0" font-family="sans-serif" font-size="9" font-weight="normal" fill="#333333" text-anchor="middle">2003</text>
+<rect x="262.1" y="51.8" width="24.8" height="172.2" fill="url(#hatch_grid)" stroke="#333333" stroke-width="1"/>
+<rect x="287.0" y="137.9" width="24.8" height="86.1" fill="url(#solid_dark)" stroke="#333333" stroke-width="1"/>
+<text x="287.0" y="237.0" font-family="sans-serif" font-size="9" font-weight="normal" fill="#333333" text-anchor="middle">2004</text>
+<rect x="48.0" y="8.0" width="10" height="10" fill="url(#hatch_grid)" stroke="#333333"/>
+<text x="62.0" y="17.0" font-family="sans-serif" font-size="9" font-weight="normal" fill="#333333" text-anchor="start">Gross profit</text>
+<rect x="152.0" y="8.0" width="10" height="10" fill="url(#solid_dark)" stroke="#333333"/>
+<text x="166.0" y="17.0" font-family="sans-serif" font-size="9" font-weight="normal" fill="#333333" text-anchor="start">Net profit</text>
+<text x="12" y="125.0" font-family="sans-serif" font-size="10" fill="#333333" text-anchor="middle" transform="rotate(-90 12 125.0)">Profit (in lakhs)</text>
+</svg>
