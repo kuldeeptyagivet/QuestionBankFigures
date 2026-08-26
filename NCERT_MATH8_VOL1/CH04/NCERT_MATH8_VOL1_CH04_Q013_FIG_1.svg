@@ -1,0 +1,13 @@
+<svg viewBox="0 0 340 240" xmlns="http://www.w3.org/2000/svg">
+<rect x="0" y="0" width="340" height="240" fill="none"/>
+<polygon points="60,60 290,90 260,210 100,195" fill="none" stroke="#333333" stroke-width="2"/>
+<line x1="60" y1="60" x2="260" y2="210" stroke="#333333" stroke-width="2"/>
+<line x1="83.83519245083355" y1="126.3636466812345" x2="76.16480754916645" y2="128.6363533187655" stroke="#333333" stroke-width="1.5"/>
+<line x1="278.8805700005813" y1="150.97014250014533" x2="271.1194299994187" y2="149.02985749985467" stroke="#333333" stroke-width="1.5"/>
+<path d="M 264.8507125007267,190.59714999709337 A 20,20 0 0 0 240.08731547881425,208.13318582613886" fill="none" stroke="#333333" stroke-width="1.3"/>
+<text x="240.92883429713595" y="183.06877947931247" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#333333">20°</text>
+<text x="46" y="52" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#333333">O</text>
+<text x="305" y="84" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#333333">I</text>
+<text x="270" y="222" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#333333">A</text>
+<text x="84" y="205" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#333333">E</text>
+</svg>

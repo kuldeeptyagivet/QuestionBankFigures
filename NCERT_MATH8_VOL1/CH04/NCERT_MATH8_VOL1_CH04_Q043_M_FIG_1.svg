@@ -1,0 +1,15 @@
+<svg viewBox="0 0 340 240" xmlns="http://www.w3.org/2000/svg">
+<rect x="0" y="0" width="340" height="240" fill="none"/>
+<polygon points="90,40 300,60 270,210 60,190" fill="none" stroke="#333333" stroke-width="2"/>
+<line x1="90" y1="40" x2="270" y2="210" stroke="#333333" stroke-width="2"/>
+<line x1="195.379236370512" y1="46.018018109624194" x2="194.620763629488" y2="53.981981890375806" stroke="#333333" stroke-width="1.5"/>
+<line x1="288.92232270276367" y1="135.78446454055273" x2="281.07767729723633" y2="134.21553545944727" stroke="#333333" stroke-width="1.5"/>
+<line x1="164.620763629488" y1="203.9819818903758" x2="165.379236370512" y2="196.0180181096242" stroke="#333333" stroke-width="1.5"/>
+<line x1="71.07767729723632" y1="114.21553545944727" x2="78.92232270276368" y2="115.78446454055273" stroke="#333333" stroke-width="1.5"/>
+<path d="M 254.00571064390402,194.89428227479823 A 22,22 0 0 0 248.09909960293305,207.91419996218409" fill="none" stroke="#333333" stroke-width="1.3"/>
+<text x="238.12654567681523" y="195.5403005042341" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#333333">25°</text>
+<text x="78" y="30" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#333333">K</text>
+<text x="308" y="54" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#333333">L</text>
+<text x="278" y="220" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#333333">M</text>
+<text x="48" y="198" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#333333">N</text>
+</svg>

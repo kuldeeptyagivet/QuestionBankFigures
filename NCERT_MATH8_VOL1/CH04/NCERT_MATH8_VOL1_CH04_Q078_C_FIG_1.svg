@@ -1,0 +1,9 @@
+<svg viewBox="0 0 340 270" xmlns="http://www.w3.org/2000/svg">
+<rect x="0" y="0" width="340" height="270" fill="none"/>
+<polygon points="70,90 260,40 300,220 90,240" fill="none" stroke="#333333" stroke-width="2"/>
+<line x1="70" y1="90" x2="300" y2="220" stroke="#333333" stroke-width="2"/>
+<text x="58" y="82" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#333333">S</text>
+<text x="272" y="30" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#333333">O</text>
+<text x="312" y="224" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#333333">M</text>
+<text x="78" y="252" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#333333">E</text>
+</svg>

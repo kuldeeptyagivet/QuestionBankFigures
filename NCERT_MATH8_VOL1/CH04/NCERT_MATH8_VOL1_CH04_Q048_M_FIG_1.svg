@@ -1,0 +1,17 @@
+<svg viewBox="0 0 340 300" xmlns="http://www.w3.org/2000/svg">
+<rect x="0" y="0" width="340" height="300" fill="none"/>
+<polygon points="70,150 170,60 270,150 170,260" fill="none" stroke="#333333" stroke-width="2"/>
+<line x1="70" y1="150" x2="270" y2="150" stroke="#333333" stroke-width="2"/>
+<line x1="170" y1="60" x2="170" y2="260" stroke="#333333" stroke-width="2"/>
+<polyline points="158,150 158,138 170,138" fill="none" stroke="#333333" stroke-width="1.5"/>
+<line x1="122.95976029358377" y1="202.30930882401475" x2="117.04023970641623" y2="207.69069117598525" stroke="#333333" stroke-width="1.5"/>
+<line x1="217.04023970641623" y1="202.30930882401475" x2="222.95976029358377" y2="207.69069117598525" stroke="#333333" stroke-width="1.5"/>
+<line x1="116.20919985413946" y1="103.03027051244501" x2="121.56091770711905" y2="108.97662368242234" stroke="#333333" stroke-width="1.5"/>
+<line x1="118.43908229288095" y1="101.02337631757766" x2="123.79080014586054" y2="106.96972948755499" stroke="#333333" stroke-width="1.5"/>
+<line x1="221.56091770711905" y1="101.02337631757766" x2="216.20919985413943" y2="106.96972948755499" stroke="#333333" stroke-width="1.5"/>
+<line x1="223.79080014586057" y1="103.03027051244501" x2="218.43908229288095" y2="108.97662368242234" stroke="#333333" stroke-width="1.5"/>
+<text x="52" y="154" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#333333">P</text>
+<text x="288" y="154" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#333333">Q</text>
+<text x="170" y="46" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#333333">R</text>
+<text x="170" y="278" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#333333">S</text>
+</svg>

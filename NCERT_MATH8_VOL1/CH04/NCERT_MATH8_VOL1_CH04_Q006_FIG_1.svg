@@ -1,0 +1,16 @@
+<svg viewBox="0 0 340 260" xmlns="http://www.w3.org/2000/svg">
+<rect x="0" y="0" width="340" height="260" fill="none"/>
+<line x1="60" y1="130" x2="280" y2="130" stroke="#333333" stroke-width="2"/>
+<line x1="230" y1="40" x2="110" y2="220" stroke="#333333" stroke-width="2"/>
+<line x1="115.0" y1="126.0" x2="115.0" y2="134.0" stroke="#333333" stroke-width="1.5"/>
+<line x1="225.0" y1="126.0" x2="225.0" y2="134.0" stroke="#333333" stroke-width="1.5"/>
+<line x1="203.3282011773514" y1="87.21880078490092" x2="196.6717988226486" y2="82.78119921509908" stroke="#333333" stroke-width="1.5"/>
+<line x1="143.3282011773514" y1="177.2188007849009" x2="136.6717988226486" y2="172.7811992150991" stroke="#333333" stroke-width="1.5"/>
+<line x1="60" y1="130" x2="230" y2="40" stroke="#333333" stroke-width="1.5" stroke-dasharray="5,4"/>
+<line x1="230" y1="40" x2="280" y2="130" stroke="#333333" stroke-width="1.5" stroke-dasharray="5,4"/>
+<text x="48" y="134" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#333333">A</text>
+<text x="292" y="134" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#333333">B</text>
+<text x="238" y="28" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#333333">C</text>
+<text x="100" y="234" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#333333">D</text>
+<text x="174" y="148" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#333333">O</text>
+</svg>

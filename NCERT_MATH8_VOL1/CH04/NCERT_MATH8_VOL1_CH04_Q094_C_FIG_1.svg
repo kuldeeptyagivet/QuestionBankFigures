@@ -1,0 +1,13 @@
+<svg viewBox="0 0 300 300" xmlns="http://www.w3.org/2000/svg">
+<rect x="0" y="0" width="300" height="300" fill="none"/>
+<polygon points="150,40 260,150 150,260 40,150" fill="none" stroke="#333333" stroke-width="2"/>
+<polyline points="150,139 161,139 161,150" fill="none" stroke="#333333" stroke-width="1.5"/>
+<line x1="154.0" y1="95.0" x2="146.0" y2="95.0" stroke="#333333" stroke-width="1.5"/>
+<line x1="154.0" y1="205.0" x2="146.0" y2="205.0" stroke="#333333" stroke-width="1.5"/>
+<line x1="205.0" y1="154.0" x2="205.0" y2="146.0" stroke="#333333" stroke-width="1.5"/>
+<line x1="95.0" y1="154.0" x2="95.0" y2="146.0" stroke="#333333" stroke-width="1.5"/>
+<text x="150" y="26" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#333333">A</text>
+<text x="272" y="154" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#333333">B</text>
+<text x="150" y="276" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#333333">C</text>
+<text x="28" y="154" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#333333">D</text>
+</svg>

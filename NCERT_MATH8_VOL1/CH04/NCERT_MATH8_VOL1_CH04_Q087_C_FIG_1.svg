@@ -1,0 +1,14 @@
+<svg viewBox="0 0 320 240" xmlns="http://www.w3.org/2000/svg">
+<rect x="0" y="0" width="320" height="240" fill="none"/>
+<polygon points="60,60 280,90 250,210 95,195" fill="none" stroke="#333333" stroke-width="2"/>
+<line x1="60" y1="60" x2="250" y2="210" stroke="#333333" stroke-width="2"/>
+<line x1="280" y1="90" x2="95" y2="195" stroke="#333333" stroke-width="2"/>
+<line x1="100.75334729856604" y1="82.9450906287698" x2="96.24665270143396" y2="89.5549093712302" stroke="#333333" stroke-width="1.5"/>
+<line x1="224.73576451552532" y1="180.83185118343965" x2="219.26423548447468" y2="186.66814881656035" stroke="#333333" stroke-width="1.5"/>
+<line x1="243.014531382882" y1="109.4521878248227" x2="239.985468617118" y2="102.0478121751773" stroke="#333333" stroke-width="1.5"/>
+<line x1="123.7487801902177" y1="177.1234752377721" x2="118.7512198097823" y2="170.8765247622279" stroke="#333333" stroke-width="1.5"/>
+<text x="46" y="52" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#333333">E</text>
+<text x="292" y="82" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#333333">A</text>
+<text x="262" y="222" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#333333">S</text>
+<text x="80" y="205" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#333333">Y</text>
+</svg>

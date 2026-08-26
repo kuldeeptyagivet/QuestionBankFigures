@@ -1,0 +1,20 @@
+<svg viewBox="0 0 330 230" xmlns="http://www.w3.org/2000/svg">
+<rect x="0" y="0" width="330" height="230" fill="none"/>
+<polygon points="60,190 240,190 285,70 105,70" fill="none" stroke="#333333" stroke-width="2"/>
+<polyline points="168.1,193.1818181818182 175.1,190.0 168.1,186.8181818181818" fill="none" stroke="#333333" stroke-width="1.5"/>
+<polyline points="213.1,73.18181818181819 220.1,70.0 213.1,66.81818181818181" fill="none" stroke="#333333" stroke-width="1.5"/>
+<polyline points="88.59692683103151,122.8033506047073 88.07556172079421,115.13183541121548 82.63846842831941,120.56892870369026" fill="none" stroke="#333333" stroke-width="1.5"/>
+<polyline points="90.70366748056185,117.18537553929303 90.18230237032455,109.5138603458012 84.74520907784975,114.95095363827599" fill="none" stroke="#333333" stroke-width="1.5"/>
+<polyline points="268.5969268310315,122.8033506047073 268.07556172079416,115.13183541121548 262.63846842831936,120.56892870369026" fill="none" stroke="#333333" stroke-width="1.5"/>
+<polyline points="270.7036674805619,117.18537553929303 270.1823023703245,109.5138603458012 264.7452090778497,114.95095363827599" fill="none" stroke="#333333" stroke-width="1.5"/>
+<line x1="123.0" y1="186.0" x2="123.0" y2="194.0" stroke="#333333" stroke-width="1.5"/>
+<line x1="168.0" y1="66.0" x2="168.0" y2="74.0" stroke="#333333" stroke-width="1.5"/>
+<line x1="71.47799812734124" y1="148.0" x2="78.96863154789358" y2="150.80898753270714" stroke="#333333" stroke-width="1.5"/>
+<line x1="72.53136845210642" y1="145.19101246729286" x2="80.02200187265876" y2="148.0" stroke="#333333" stroke-width="1.5"/>
+<line x1="251.47799812734124" y1="148.0" x2="258.9686315478936" y2="150.80898753270714" stroke="#333333" stroke-width="1.5"/>
+<line x1="252.53136845210642" y1="145.19101246729286" x2="260.0220018726588" y2="148.0" stroke="#333333" stroke-width="1.5"/>
+<text x="48" y="200" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#333333">A</text>
+<text x="248" y="200" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#333333">B</text>
+<text x="293" y="60" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#333333">C</text>
+<text x="93" y="60" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#333333">D</text>
+</svg>

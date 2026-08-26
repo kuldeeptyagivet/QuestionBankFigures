@@ -1,0 +1,14 @@
+<svg viewBox="0 0 340 240" xmlns="http://www.w3.org/2000/svg">
+<rect x="0" y="0" width="340" height="240" fill="none"/>
+<polygon points="60,210 300,190 280,60 150,40" fill="none" stroke="#333333" stroke-width="2"/>
+<polyline points="211.05688074468756,52.61261889309045 218.45930094177717,50.53220014488879 212.0245173717581,46.32298081713197" fill="none" stroke="#333333" stroke-width="1.5"/>
+<polyline points="176.77632546385937,203.46148659208544 183.4879101538571,199.7093408205119 176.24785422842646,197.11983176689077" fill="none" stroke="#333333" stroke-width="1.5"/>
+<line x1="101.46484833461176" y1="123.12844911832387" x2="108.53515166538824" y2="126.87155088167613" stroke="#333333" stroke-width="1.5"/>
+<line x1="286.0465132093975" y1="125.60822873701576" x2="293.9534867906025" y2="124.39177126298424" stroke="#333333" stroke-width="1.5"/>
+<path d="M 139.70647015078129,59.443334159635356 A 22,22 0 0 0 171.74417734831357,43.345258053586704" fill="none" stroke="#333333" stroke-width="1.3"/>
+<text x="165.71431240688182" y="71.27395698626766" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#333333">100°</text>
+<text x="48" y="222" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#333333">A</text>
+<text x="312" y="194" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#333333">B</text>
+<text x="288" y="48" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#333333">C</text>
+<text x="138" y="28" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#333333">D</text>
+</svg>
